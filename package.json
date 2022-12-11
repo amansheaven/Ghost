@@ -120,8 +120,5 @@
     "husky": "8.0.2",
     "lint-staged": "13.1.0",
     "nodemon": "2.0.20"
-  },
-  "engines": {
-    "node": "v14.20.1"
-   }
+  }
 }
